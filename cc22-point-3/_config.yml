@@ -21,9 +21,12 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/the-intern/nrp-curricula-2022-23 # Online location of your book
-  path_to_book: nrp-curricula-2022-23/high-school-curriculum/david_evans_udacity_and_jupyter_books/my-jupyter-books/cc22-point-3/ # Optional path to your book, relative to the repository root
-  # branch: main # repo branch to be used when creating links(optional)
+  # Online location of your book
+  url: https://github.com/the-intern/cc22-3-book
+  # Optional path to your book, relative to the repository root
+  path_to_book: https://github.com/the-intern/cc22-3-book/cc22-point-3
+  # repo branch to be used when creating links(optional)
+  branch: main
 
 # ===========
 # ==thebe?===
