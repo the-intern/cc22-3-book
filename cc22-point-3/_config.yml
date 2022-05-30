@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: CC22.3
-author: M. N. Multa
+title: CC 22 Point 3
+author: the-intern
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
