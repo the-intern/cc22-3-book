@@ -44,13 +44,19 @@
 # In[1]:
 
 
+get_ipython().run_line_magic('env', 'JOBLIB_TEMP_FOLDER=/tmp')
+
+
+# In[2]:
+
+
 from matplotlib import rcParams, cycler
 import matplotlib.pyplot as plt
 import numpy as np
 plt.ion()
 
 
-# In[2]:
+# In[3]:
 
 
 # Fixing random state for reproducibility
@@ -76,7 +82,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 # There is a lot more that you can do with outputs (such as including interactive outputs)
 # with your book. For more information about this, see [the Jupyter Book documentation](https://jupyterbook.org)
 
-# In[3]:
+# In[4]:
 
 
 # this is NOT interactive
