@@ -24,7 +24,7 @@ repository:
   # Online location of your book
   url: https://github.com/the-intern/cc22-3-book
   # Optional path to your book, relative to the repository root
-  path_to_book: https://github.com/the-intern/cc22-3-book/cc22-point-3
+  path_to_book: cc22-point-3/helpers
   # repo branch to be used when creating links(optional)
   branch: main
 
