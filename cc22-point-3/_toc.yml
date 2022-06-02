@@ -8,3 +8,5 @@ chapters:
 - file: helpers/markdown
 - file: helpers/notebooks
 - file: helpers/markdown-notebooks
+- file: helpers/layout
+- file: helpers/hiding

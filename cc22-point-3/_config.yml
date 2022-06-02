@@ -3,7 +3,7 @@
 
 title: CC 22 Point 3
 author: the-intern
-logo: logo.png
+logo: images/pycode.jpeg
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -32,10 +32,13 @@ repository:
 # ==thebe?===
 launch_buttons:
   thebe: true
-
-launch_buttons:
   binderhub_url: "https://mybinder.org"  # BinderHub
 
+# ===========
+# eliminated several errors shown with myst-nb material
+#  in layout.md and hidden.md
+myst_enable_extensions:
+  extensions: ["myst_nb"]
 
 # ===========
 
