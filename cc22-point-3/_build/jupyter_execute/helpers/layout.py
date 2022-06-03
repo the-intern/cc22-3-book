@@ -137,7 +137,7 @@ make_fig(figsize=(10, 5))
 # 
 # For example, we'll re-display the figure above, and add a `margin` tag to the code cell.
 
-# In[ ]:
+# In[2]:
 
 
 make_fig(figsize=(10, 5))
@@ -171,7 +171,7 @@ make_fig(figsize=(10, 5))
 # For example, let's take a look at the figure in the margin above in a cell with `full-width` set. We'll tell Matplotlib
 # to make it a bit wider so we can take advantage of the extra space!
 
-# In[ ]:
+# In[3]:
 
 
 make_fig(figsize=(20, 5))

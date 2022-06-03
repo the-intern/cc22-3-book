@@ -388,22 +388,7 @@ to see the code that generated it.</p>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
-<span class="ne">ModuleNotFoundError</span><span class="g g-Whitespace">                       </span>Traceback (most recent call last)
-<span class="nn">Input In [1],</span> in <span class="ni">&lt;cell line: 25&gt;</span><span class="nt">()</span>
-<span class="g g-Whitespace">     </span><span class="mi">23</span>     <span class="n">lines</span> <span class="o">=</span> <span class="n">ax</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">data</span><span class="p">)</span>
-<span class="g g-Whitespace">     </span><span class="mi">24</span>     <span class="n">ax</span><span class="o">.</span><span class="n">legend</span><span class="p">(</span><span class="n">custom_lines</span><span class="p">,</span> <span class="p">[</span><span class="s1">&#39;Cold&#39;</span><span class="p">,</span> <span class="s1">&#39;Medium&#39;</span><span class="p">,</span> <span class="s1">&#39;Hot&#39;</span><span class="p">])</span>
-<span class="ne">---&gt; </span><span class="mi">25</span> <span class="n">make_fig</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
-
-<span class="nn">Input In [1],</span> in <span class="ni">make_fig</span><span class="nt">(figsize)</span>
-<span class="g g-Whitespace">      </span><span class="mi">1</span> <span class="k">def</span> <span class="nf">make_fig</span><span class="p">(</span><span class="n">figsize</span><span class="p">):</span>
-<span class="ne">----&gt; </span><span class="mi">2</span>     <span class="kn">from</span> <span class="nn">matplotlib</span> <span class="kn">import</span> <span class="n">rcParams</span><span class="p">,</span> <span class="n">cycler</span>
-<span class="g g-Whitespace">      </span><span class="mi">3</span>     <span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
-<span class="g g-Whitespace">      </span><span class="mi">4</span>     <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-
-<span class="ne">ModuleNotFoundError</span>: No module named &#39;matplotlib&#39;
-</pre></div>
-</div>
+<img alt="../_images/layout_1_0.png" src="../_images/layout_1_0.png" />
 </div>
 </div>
 <div class="section" id="sidebar-content">
@@ -468,8 +453,8 @@ which we’ll cover below.</p>
 <p>You can make a code cell move to the right margin by adding <code class="docutils literal notranslate"><span class="pre">margin</span></code> to your
 cell’s tags.</p>
 <div class="tabbed-set docutils">
-<input checked="checked" id="ccf7aa69-f556-4fb7-9968-d9f6339341ec" name="8d79d2fe-f720-43ea-8b9f-082922e8037f" type="radio">
-</input><label class="tabbed-label" for="ccf7aa69-f556-4fb7-9968-d9f6339341ec">
+<input checked="checked" id="0488e30a-c9a5-471a-9127-e8acaf6a436e" name="818a1ef8-564d-4eee-8a2c-6036f8d30e4d" type="radio">
+</input><label class="tabbed-label" for="0488e30a-c9a5-471a-9127-e8acaf6a436e">
 Jupyter Notebook</label><div class="tabbed-content docutils">
 <p>Here’s what the cell metadata for a margin cell looks like:</p>
 <div class="highlight-json notranslate"><div class="highlight"><pre><span></span><span class="p">{</span><span class="w"></span>
@@ -484,8 +469,8 @@ Jupyter Notebook</label><div class="tabbed-content docutils">
 <p><span class="xref myst"></span></p>
 </div>
 </div>
-<input id="deaceddf-6200-48a8-8def-1181e7c7fe09" name="8d79d2fe-f720-43ea-8b9f-082922e8037f" type="radio">
-</input><label class="tabbed-label" for="deaceddf-6200-48a8-8def-1181e7c7fe09">
+<input id="8237bf39-25f4-49db-b226-d34b3efc2cdd" name="818a1ef8-564d-4eee-8a2c-6036f8d30e4d" type="radio">
+</input><label class="tabbed-label" for="8237bf39-25f4-49db-b226-d34b3efc2cdd">
 MyST Text File</label><div class="tabbed-content docutils">
 <p>For a MyST text file these tags can be added to the <code class="docutils literal notranslate"><span class="pre">code-cell</span></code></p>
 <div class="highlight-md notranslate"><div class="highlight"><pre><span></span>```{code-cell} &lt;language&gt;
@@ -501,6 +486,9 @@ MyST Text File</label><div class="tabbed-content docutils">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">make_fig</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
 </pre></div>
 </div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/layout_3_0.png" src="../_images/layout_3_0.png" />
 </div>
 </div>
 <p>This can be combined with other tags like <code class="docutils literal notranslate"><span class="pre">remove-input</span></code> to <strong>only display the figure</strong>.</p>
@@ -532,6 +520,9 @@ to make it a bit wider so we can take advantage of the extra space!</p>
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">make_fig</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
 </pre></div>
 </div>
+</div>
+<div class="cell_output docutils container">
+<img alt="../_images/layout_5_0.png" src="../_images/layout_5_0.png" />
 </div>
 </div>
 </div>

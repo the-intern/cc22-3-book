@@ -158,7 +158,7 @@ ax.scatter(*data, c=data[1], s=100*np.abs(data[0]));
 # }
 # ```
 
-# In[ ]:
+# In[2]:
 
 
 # This cell should have its output hidden!
@@ -180,7 +180,7 @@ ax.scatter(*data, c=data[1], s=100*np.abs(data[0]));
 # }
 # ```
 
-# In[ ]:
+# In[3]:
 
 
 # This cell should have its output hidden!
@@ -203,7 +203,7 @@ ax.scatter(*data, c=data[1], s=100*np.abs(data[0]));
 # this case, there is no button available to show the input contents,
 # the entire input cell is gone!
 
-# In[ ]:
+# In[4]:
 
 
 # For example, this cell's inputs will be removed
@@ -252,7 +252,7 @@ ax.scatter(*data, c=data[1], s=100*np.abs(data[0]));
 # For example, there's a cell below this text that won't make it into the final book,
 # because it has been removed!
 
-# In[ ]:
+# In[5]:
 
 
 # For example, this entire cell (input and output) will be removed
