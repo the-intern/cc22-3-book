@@ -24,9 +24,13 @@ repository:
   # Online location of your book
   url: https://github.com/the-intern/cc22-3-book
   # Optional path to your book, relative to the repository root
-  path_to_book: cc22-point-3/helpers
+  path_to_book: cc22-point-3
   # repo branch to be used when creating links(optional)
   branch: main
+
+# colab error:  The 'the-intern/cc22-3-book' repository doesn't contain the 'cc22-point-3/helpers/helpers/notebooks.ipynb' path in 'main'.
+# May have to point elsewhere ...
+
 
 # ===========
 # ==thebe?===
@@ -34,6 +38,8 @@ launch_buttons:
   thebe: true
   binderhub_url: "https://mybinder.org"  # BinderHub
   colab_url: "https://colab.research.google.com"
+
+
 
 # ===========
 # eliminated several errors shown with myst-nb material
