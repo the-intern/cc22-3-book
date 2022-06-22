@@ -1,0 +1,53 @@
+# Computable Quotes 
+
+## Typing = Coding
+
+http://wisdomofhands.blogspot.com/2011/02/way-to-brain.html
+
+	“The way to the brain is through the hands.” This is borne out by the research of Piaget, which indicates that a child must interact with real objects, have time to investigate and test his ideas, and discuss his ideas with others in order to build satisfactory mental constructs. The Montessori approach uses a wide range of specially designed concrete materials that represent abstract concepts, particularly in math and language arts. This physical modeling fosters the internalization of accurate mental representations of these operations.`
+
+“The hands are the instruments of man’s intelligence.”
+Maria Montessori 
+
+“The human hand allows the minds to reveal itself.”
+Maria Montessori 
+
+	
+
+
+## Why Computing?
+
+"The error today is thinking that 
+
+
+# Fun --- 
+
+ ``I think that it's extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun. Of course, the paying customers got shafted every now and then, and after a while we began to take their complaints seriously. We began to feel as if we really were responsible for the successful, error-free perfect use of these machines. I don't think we are. I think we're responsible for stretching them, setting them off in new directions, and keeping fun in the house. I hope the field of computer science never loses its sense of fun. Above all, I hope we don't become missionaries. Don't feel as if you're Bible salesmen. The world has too many of those already. What you know about computing other people will learn. Don't feel as if the key to successful computing is only in your hands. What's in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.''
+
+-Alan J. Perlis (April 1, 1922-February 7, 1990)
+
+## Violin
+
+ A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. Computer programs are good, they say, for particular purposes, but they aren't flexible. Neither is a violin, or a typewriter, until you learn how to use it.
+
+	Marvin Minsky, ``Why Programming Is a Good
+	Medium for Expressing Poorly-Understood and Sloppily-Formulated Ideas''
+
+
+## The Mind
+
+The acts of the mind, wherein it exerts its power over simple ideas, are chiefly these three: 1. Combining several simple ideas into one compound one, and thus all complex ideas are made. 2. The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its ideas of relations. 3. The third is separating them from all other ideas that accompany them in their real existence: this is called abstraction, and thus all its general ideas are made.
+
+John Locke, An Essay Concerning Human Understanding (1690)
+
+
+## Bugs
+
+“I often end up rewriting. Sometimes I do that without ever finding the bug. I get to the point where I can just feel that it’s in this part here. I’m just not very comfortable about this part. It’s a mess. It really shouldn’t be that way. Rather than tweak it a little bit at a time, I’ll just throw away a couple hundred lines of code, rewrite it from scratch, and often then the bug is gone. Sometimes I feel guilty about that. Is that a failure on my part? I didn’t understand what the bug was. I didn’t find the bug. I just dropped a bomb on the house and blew up all the bugs and built a new house. In some sense, the bug eluded me. But if it becomes the right solution, maybe it’s OK. You’ve done it faster than you would have by finding it.”
+― Peter Norvig 
+
+## Source Code, Understandable Code
+
+“Programs are meant to be read by humans and only incidentally for computers to execute.”
+	― Donald Knuth 
+
