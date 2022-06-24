@@ -4,7 +4,6 @@
 format: jb-book
 root: pages/intro
 chapters:
-- file: pages/markdown
-- file: pages/notebooks
-- file: pages/markdown-notebooks
-- file: pages/lesson_00/intro.md
+- file: pages/quotes/index
+- file: pages/lesson_00/index
+- file: pages/lesson_01/index

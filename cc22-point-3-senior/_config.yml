@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: CC 22 3 HS Ver
-author: tk mnm
-logo: logo.png
+title: Coding
+author: Much Not Many
+logo: raining_code.gif
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
